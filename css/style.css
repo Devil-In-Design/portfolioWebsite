@@ -102,10 +102,9 @@ body {
     animation-delay: 1s;
 }
 
-/* img {
-    width: 75%;
-    height: 75%;
-} */
+img {
+    max-width: 350px;
+}
 
 .home-image img {
     max-width: 450px;
